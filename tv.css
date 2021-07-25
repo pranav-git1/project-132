@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+}
+
+.a_tag {
+    display: inline-block;
+    margin-left: 95px;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#status {
+    display: inline-block;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.h2_tag {
+    text-align: center;
+    background-color: chartreuse;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.img_tag {
+    width: 600;
+    height: 400;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
