@@ -35,9 +35,17 @@ body {
 
 .img_tag {
     width: 600;
-    height: 400;
+    height: 395;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
+}
+
+canvas {
+    border-width: 10px;
+    border-color: black;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 9%;
 }
